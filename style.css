@@ -1,0 +1,35 @@
+body {
+    background-color: #F5F5F5;
+}
+
+.countdown {
+    width: 30rem;
+    height: 30rem;
+    border: 3px dotted #30475E;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+#christmas {
+    font-family: basic-sans, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 3rem;
+    color: #F05454;
+    margin-top: 12.5rem;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    font-size: 2rem;
+    font-family: looking-flowers-script, sans-serif;
+    color: #F05454;
+    margin-top: -1.5rem;
+    font-weight: 400;
+    font-style: normal;
+}
